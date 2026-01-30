@@ -2,7 +2,7 @@
 
 Product Designer + Design Engineer. I design, build, iterate… and somehow end up shipping. On loop. 🔁
 
-**🧰 Tools**
+**🧰 Tools**  
 Figma · Tailwind · SCSS · Angular · TypeScript · Storybook · Ableton 🎛️
 
 **🥁 Current setlist**
@@ -14,7 +14,7 @@ Figma · Tailwind · SCSS · Angular · TypeScript · Storybook · Ableton 🎛�
 - **Prelude DS** - tokens, components and docs (the whole orchestra)
 - **Linkims** - a small project to show and connect!
 
-**✨ Grounded workflow**
+**✨ Grounded workflow**  
 AI for speed. Human judgment for quality and scalability.
 
 <sub>crafted with 💙 and 🎧</sub>
