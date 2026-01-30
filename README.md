@@ -17,6 +17,4 @@ Figma · Tailwind · SCSS · Angular · TypeScript · Storybook · Ableton 🎛�
 ## ✨ Grounded workflow
 AI for speed. Human judgment for quality and scalability.
 
-```
-Everything is created with 💙 and 🎧
-```
+<sub>crafted with 💙 and 🎧</sub>
