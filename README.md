@@ -13,11 +13,11 @@ I work at the intersection of design and frontend engineering — building scala
 
 ### Tech
 
-**Design** — Figma, design tokens, Storybook
-**Frontend** — Angular, TypeScript, Astro
-**Styling** — SCSS/BEM, Tailwind CSS, CSS custom properties, GSAP
-**Backend** — Supabase
-**Tooling** — Vite, Netlify, Node.js
+**Design** - Figma, design tokens, Storybook
+**Frontend** - Angular, TypeScript, Astro
+**Styling** - SCSS/BEM, Tailwind CSS, CSS custom properties, GSAP
+**Backend** - Supabase
+**Tooling** - Vite, Netlify, Node.js
 
 ### Featured work
 
